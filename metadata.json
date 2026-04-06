@@ -1,0 +1,7 @@
+{
+  "name": "Renascer dos Palmares",
+  "description": "Sistema de gestão e identificação para o projeto Renascer dos Palmares. Cadastro de alunos com foto e geração de carteirinha digital.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
